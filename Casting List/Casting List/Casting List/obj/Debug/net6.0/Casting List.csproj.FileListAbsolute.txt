@@ -1,0 +1,14 @@
+C:\Users\oruc-\OneDrive\Masaüstü\Casting List\Casting List\Casting List\obj\Debug\net6.0\Casting List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oruc-\OneDrive\Masaüstü\Casting List\Casting List\Casting List\obj\Debug\net6.0\Casting List.AssemblyInfoInputs.cache
+C:\Users\oruc-\OneDrive\Masaüstü\Casting List\Casting List\Casting List\obj\Debug\net6.0\Casting List.AssemblyInfo.cs
+C:\Users\oruc-\OneDrive\Masaüstü\Casting List\Casting List\Casting List\obj\Debug\net6.0\Casting List.csproj.CoreCompileInputs.cache
+C:\Users\oruc-\OneDrive\Masaüstü\Casting List\Casting List\Casting List\bin\Debug\net6.0\Casting List.exe
+C:\Users\oruc-\OneDrive\Masaüstü\Casting List\Casting List\Casting List\bin\Debug\net6.0\Casting List.deps.json
+C:\Users\oruc-\OneDrive\Masaüstü\Casting List\Casting List\Casting List\bin\Debug\net6.0\Casting List.runtimeconfig.json
+C:\Users\oruc-\OneDrive\Masaüstü\Casting List\Casting List\Casting List\bin\Debug\net6.0\Casting List.dll
+C:\Users\oruc-\OneDrive\Masaüstü\Casting List\Casting List\Casting List\bin\Debug\net6.0\Casting List.pdb
+C:\Users\oruc-\OneDrive\Masaüstü\Casting List\Casting List\Casting List\obj\Debug\net6.0\Casting List.dll
+C:\Users\oruc-\OneDrive\Masaüstü\Casting List\Casting List\Casting List\obj\Debug\net6.0\refint\Casting List.dll
+C:\Users\oruc-\OneDrive\Masaüstü\Casting List\Casting List\Casting List\obj\Debug\net6.0\Casting List.pdb
+C:\Users\oruc-\OneDrive\Masaüstü\Casting List\Casting List\Casting List\obj\Debug\net6.0\Casting List.genruntimeconfig.cache
+C:\Users\oruc-\OneDrive\Masaüstü\Casting List\Casting List\Casting List\obj\Debug\net6.0\ref\Casting List.dll
